@@ -8,10 +8,10 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "register": {
+  "profile": {
     "name": "typicode"
   },
-  "register2":{
+  "register":{
     "uuid":"test-test"
 }
 }
